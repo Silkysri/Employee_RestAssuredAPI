@@ -1,0 +1,4 @@
+base\TestBase.class
+RestAssuredAPIFramework\RestAssuredAPIFramework\AppTest.class
+testCases\TC1_Get_AllEmployee.class
+testCases\TC2_Post_Employee.class
